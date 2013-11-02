@@ -1,1 +1,3 @@
-My recipes for [AutoPkg](https://github.com/autopkg/autopkg). Testing for now...
+# Important
+
+These recipes have been moved to [https://github.com/autopkg/hjuutilainen-recipes]() and will no longer be maintained in this location. Please update your [AutoPkg](https://github.com/autopkg/autopkg) configuration to point to the new location.
